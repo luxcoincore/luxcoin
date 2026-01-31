@@ -1,8 +1,8 @@
 For an immediately usable, binary version of the Luxcoin Core software, see:
 
-<a href="https://github.com/luxxcoin/luxcoin/releases/download/luxcoin-auto/luxcoin-core-windows.zip">Windows Download</a>
+<a href="">Windows Download</a>
 
-<a href="https://github.com/luxxcoin/luxcoin/releases/download/luxcoin-linux/luxcoin-core-linux.sh">Linux Download</a>
+<a href="">Linux Download</a>
 
 <a href="URL">Buy/use/invesment Luxcoin</a>
 
